@@ -1,0 +1,7 @@
+[
+  "public/vendor/jquery/dist/jquery.min.js",
+  "public/vendor/angular/angular.min.js",
+  "public/vendor/angular-resource/angular-resource.min.js",
+  "public/vendor/angular-route/angular-route.min.js",
+  "public/vendor/bootstrap/dist/js/bootstrap.min.js"
+]

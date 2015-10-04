@@ -1,0 +1,19 @@
+{
+  "name": "imgshr",
+  "version": "0.0.0",
+  "homepage": "https://github.com/KabeerRifaye/imgshr",
+  "authors": [
+    "Kabeer Rifaye <citizen.kabeer@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.7",
+    "toaster": "~0.4.15",
+    "bootstrap": "~3.3.5",
+    "angular-resource": "~1.4.7",
+    "angular-route": "~1.4.7"
+  }
+}
